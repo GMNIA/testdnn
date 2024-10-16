@@ -9,3 +9,15 @@ In this study, different neural network structures are tested, and the results i
 
 For more in-depth analysis, including details on the dataset and the theoretical background of this work, please refer to:
 https://onlinelibrary.wiley.com/doi/abs/10.1002/cepa.1398
+
+An overview of some results is shown in the following plot. The x-axis represents the length of the simulated structure, while the y-axis shows the ratio of the expected result to the predicted resistance.
+
+<details>
+<summary>
+  Results of the numerical simulations from the dataset compared to the DNN predictions along the specimen length.
+</summary>
+
+
+![image](https://github.com/user-attachments/assets/e01381d4-f20a-4e9d-b9fa-5ff32b621027)
+
+</details>
